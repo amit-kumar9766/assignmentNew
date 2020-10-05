@@ -1,0 +1,38 @@
+.upper__body{
+position: relative;
+width: 620px;
+height: 160px;
+left: 236.32px;
+top: 55.25px;
+flex-direction: column;
+padding-left:20px;
+/* Grey */
+
+background: #F5F5F7;
+border-radius: 14px;
+display:flex;
+
+}
+
+.upper__body>h1{
+    /* H1 */
+    
+ 
+}
+
+.upper__body1{
+position: relative;
+width: 500.26px;
+height: 80px;
+left: 236px;
+top: 239.34px;
+
+/* Grey */
+
+background: #F5F5F7;
+border-radius: 14px;
+display:flex;
+justify-content: space-around;
+align-items: center;
+}
+

@@ -1,0 +1,65 @@
+.sidebar__body{
+position: absolute;
+width: 132px;
+height: 852px;
+left: 32.34px;
+top: 24.02px;
+
+/* Black */
+
+background: #0C0B0B;
+border-radius: 24px;
+}
+
+.f__text{
+    position: absolute;
+width: 47px;
+height: 102px;
+left: 74.46px;
+top: 39.67px;
+
+font-family: Baloo Bhai;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 102px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.side-navbar-area{
+
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border:2px solid red; */
+    overflow-x: hidden;
+}
+
+.side-nav-container-area{
+    height: 90%;
+}
+
+.sidenav {
+  
+
+    height: 100%;
+    background-color: #111;
+    border-radius: 24px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+  }
+
+
+  
