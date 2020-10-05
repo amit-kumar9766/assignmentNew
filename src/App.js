@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar';
 import LeftSide from './components/LeftSide';
 import Rightside from './components/Rightside';
 import Welcome from './components/Welcome'
-import {Link,BrowserRouter} from 'react-router-dom'
+import {Link,BrowserRouter,Route} from 'react-router-dom'
 
 function App() {
   return (
