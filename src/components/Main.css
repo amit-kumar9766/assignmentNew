@@ -2,8 +2,8 @@
 position: relative;
 width: 620px;
 height: 160px;
-left: 236.32px;
-top: 55.25px;
+/* left: 236.32px;
+top: 55.25px; */
 flex-direction: column;
 padding-left:20px;
 /* Grey */
@@ -11,6 +11,9 @@ padding-left:20px;
 background: #F5F5F7;
 border-radius: 14px;
 display:flex;
+margin-left: 10em;
+margin-top: 3em;
+
 
 }
 
@@ -21,11 +24,13 @@ display:flex;
 }
 
 .upper__body1{
-position: relative;
+/* position: relative; */
 width: 500.26px;
 height: 80px;
-left: 236px;
-top: 239.34px;
+/* left: 236px;
+top: 125.34px; */
+margin-left: 10em;
+margin-top: 2em;
 
 /* Grey */
 
@@ -36,3 +41,15 @@ justify-content: space-around;
 align-items: center;
 }
 
+.filter-area{
+
+    margin-left: 10em;
+}
+
+a.filters {
+    margin-right: 1em;
+    font-size: bold;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
